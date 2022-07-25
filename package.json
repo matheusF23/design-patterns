@@ -6,7 +6,7 @@
   "author": "Matheus Figueiredo <figueiredo.matheus06@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "ts-node-dev --respawn --transpile-only FactoryMethod/index.ts"
+    "dev": "ts-node-dev --respawn --transpile-only 2-abstractFactory/index.ts"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.30.6",
